@@ -1,4 +1,4 @@
-README.md for ASCII Art project hosted at [https://github.com/svrohith9/ascii-art](https://svrohith9.github.io/ascii-art/).
+README.md for ASCII Art project hosted at [https://svrohith9.github.io/ascii-art](https://svrohith9.github.io/ascii-art/).
 
 ---
 
